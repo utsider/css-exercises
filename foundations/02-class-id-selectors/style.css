@@ -1,0 +1,18 @@
+.classnormal{
+    background-color: rgb(211, 107, 107);
+    font-family: "Verdana", sans-serif;
+}
+#id1{
+    color: rgb(22, 55, 241);
+    font-size: 36px;
+}
+#id2{
+    background-color: rgb(159, 233, 159);
+    font-size: 24px;
+    font-weight: bold;
+}
+.cooler{
+    background-color: rgb(211, 107, 107);
+    font-family: "Verdana", sans-serif;
+    font-size: 24px;
+}
